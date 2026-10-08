@@ -1,0 +1,6 @@
+{
+  "name": "CityTrack – Real-Time Public Transport Tracking System",
+  "description": "Live GPS tracking, real-time bus locations, ETA predictions, route navigation, and driver and admin portals for small city public transport.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
